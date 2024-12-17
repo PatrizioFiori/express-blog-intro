@@ -1,0 +1,22 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Title === Abstract:xxx ## Papar Information - Title:  `paper name` - Authors:  `A`,`B`,`C` - Preprint: [https://arxiv.org/abs/xx]() - Full-preprint: [paper position]() - Video: [video position]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrizioFiori/express-blog-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrizioFiori/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/PatrizioFiori/express-blog-intro#readme"
+}
