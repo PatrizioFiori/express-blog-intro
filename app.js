@@ -4,9 +4,6 @@ const app = express()
 const port = 3000
 
 app.use(express.static(`public`));
-//da rinominare gli indirizzi delle img in public
-
-
 
 app.get(`/`, (req, res) => {
     res.send(`Server del mio blog`)
